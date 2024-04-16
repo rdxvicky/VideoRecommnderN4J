@@ -1,0 +1,50 @@
+video_id,title,description,url,thumbnail_url,duration,created_at,updated_at
+1,Funny Cat Video,A hilarious video of a cat playing with a ball,https://example.com/videos/1,https://example.com/thumbnails/1,00:02:30,1684584000000,1684584000000
+2,Cooking Tutorial,Learn how to make a delicious pasta dish,https://example.com/videos/2,https://example.com/thumbnails/2,00:10:45,1684592400000,1684592400000
+3,Dancing Penguins,Adorable penguins showing off their dance moves,https://example.com/videos/3,https://example.com/thumbnails/3,00:03:15,1684659600000,1684659600000
+4,Travel Vlog: Paris,Explore the beauty of Paris through this travel vlog,https://example.com/videos/4,https://example.com/thumbnails/4,00:15:20,1684669500000,1684669500000
+5,Cute Puppy Compilation,Watch adorable puppies doing funny things,https://example.com/videos/5,https://example.com/thumbnails/5,00:04:50,1684751400000,1684751400000
+6,Gardening Tips for Beginners,Learn how to start your own garden with these easy tips,https://example.com/videos/6,https://example.com/thumbnails/6,00:08:20,1684757700000,1684757700000
+7,DIY Home Decor Ideas,Get inspired to decorate your home with these creative DIY ideas,https://example.com/videos/7,https://example.com/thumbnails/7,00:06:35,1684835100000,1684835100000
+8,Stand-up Comedy Special,Laugh out loud with this hilarious stand-up comedy special,https://example.com/videos/8,https://example.com/thumbnails/8,00:55:00,1684936800000,1684936800000
+9,Photography Masterclass,Improve your photography skills with this comprehensive masterclass,https://example.com/videos/9,https://example.com/thumbnails/9,01:20:10,1685013600000,1685013600000
+10,Healthy Smoothie Recipes,Discover delicious and nutritious smoothie recipes for a healthier lifestyle,https://example.com/videos/10,https://example.com/thumbnails/10,00:07:45,1685095200000,1685095200000
+11,How to Play Guitar: Beginner's Guide,A step-by-step guide to playing the guitar for beginners,https://example.com/videos/11,https://example.com/thumbnails/11,00:25:30,1685179800000,1685179800000
+12,Painting Tutorial: Sunset Landscape,Learn to paint a beautiful sunset landscape with acrylics,https://example.com/videos/12,https://example.com/thumbnails/12,00:12:15,1685270700000,1685270700000
+13,Yoga for Stress Relief,Relax and unwind with this gentle yoga practice for stress relief,https://example.com/videos/13,https://example.com/thumbnails/13,00:20:00,1685358000000,1685358000000
+14,Science Experiments for Kids,Engage children with fun and educational science experiments,https://example.com/videos/14,https://example.com/thumbnails/14,00:15:50,1685449800000,1685449800000
+15,Learn to Code: Python Basics,A beginner-friendly introduction to Python programming language,https://example.com/videos/15,https://example.com/thumbnails/15,00:30:00,1685524800000,1685524800000
+16,Makeup Tutorial: Smokey Eye,Master the art of creating a smokey eye makeup look,https://example.com/videos/16,https://example.com/thumbnails/16,00:08:45,1685614500000,1685614500000
+17,Fitness Workout: HIIT Circuit,Get fit with this high-intensity interval training (HIIT) circuit workout,https://example.com/videos/17,https://example.com/thumbnails/17,00:40:00,1685706000000,1685706000000
+18,Artificial Intelligence Explained,Understand the basics of artificial intelligence and machine learning,https://example.com/videos/18,https://example.com/thumbnails/18,00:18:20,1685785500000,1685785500000
+19,Classic Movie Marathon,Enjoy a marathon of classic movies from different genres,https://example.com/videos/19,https://example.com/thumbnails/19,05:30:00,1685880000000,1685880000000
+20,Beginner's Guide to Meditation,Start your meditation journey with this beginner's guide,https://example.com/videos/20,https://example.com/thumbnails/20,00:10:00,1685960400000,1685960400000
+21,Creative Writing Workshop,Unlock your creativity with this interactive creative writing workshop,https://example.com/videos/21,https://example.com/thumbnails/21,00:55:30,1686051000000,1686051000000
+22,Documentary: Wildlife Conservation,Learn about wildlife conservation efforts around the world,https://example.com/videos/22,https://example.com/thumbnails/22,01:15:45,1686132900000,1686132900000
+23,Spanish Language Crash Course,A crash course to learn essential Spanish phrases and vocabulary,https://example.com/videos/23,https://example.com/thumbnails/23,00:20:20,1686214800000,1686214800000
+24,DIY Woodworking Projects,Create beautiful woodworking projects with step-by-step instructions,https://example.com/videos/24,https://example.com/thumbnails/24,00:30:50,1686307500000,1686307500000
+25,Introduction to Astrophysics,Explore the wonders of astrophysics and the universe,https://example.com/videos/25,https://example.com/thumbnails/25,00:50:20,1686396000000,1686396000000
+26,Baking Tutorial: Chocolate Cake,Learn to bake a delicious chocolate cake from scratch,https://example.com/videos/26,https://example.com/thumbnails/26,00:18:00,1686475800000,1686475800000
+27,Music Production Masterclass,Master the art of music production with industry professionals,https://example.com/videos/27,https://example.com/thumbnails/27,01:30:00,1686571200000,1686571200000
+28,Introduction to Psychology,Understand the fundamentals of psychology and human behavior,https://example.com/videos/28,https://example.com/thumbnails/28,00:45:15,1686649500000,1686649500000
+29,Home Workout: Abs and Core,Strengthen your abs and core with this effective home workout routine,https://example.com/videos/29,https://example.com/thumbnails/29,00:25:40,1686738600000,1686738600000
+30,Travel Documentary: Machu Picchu,Embark on a virtual journey to explore the ancient ruins of Machu Picchu,https://example.com/videos/30,https://example.com/thumbnails/30,00:55:00,1686826800000,1686826800000
+31,Introduction to Cryptocurrency,Learn about the basics of cryptocurrency and blockchain technology,https://example.com/videos/31,https://example.com/thumbnails/31,00:35:20,1686907200000,1686907200000
+32,Healthy Cooking: Meal Prep Ideas,Discover easy and healthy meal prep ideas for a balanced diet,https://example.com/videos/32,https://example.com/thumbnails/32,00:12:30,1686996900000,1686996900000
+33,Watercolor Painting Tutorial,Create beautiful watercolor paintings with step-by-step guidance,https://example.com/videos/33,https://example.com/thumbnails/33,00:22:00,1687088400000,1687088400000
+34,Culinary Tour: Italy,Experience the flavors of Italy with this culinary tour showcasing Italian cuisine,https://example.com/videos/34,https://example.com/thumbnails/34,01:10:00,1687167000000,1687167000000
+35,Photography Editing Tips and Tricks,Enhance your photos with professional editing tips and tricks,https://example.com/videos/35,https://example.com/thumbnails/35,00:17:45,1687256400000,1687256400000
+36,Investing for Beginners,Get started with investing and build wealth for the future,https://example.com/videos/36,https://example.com/thumbnails/36,00:30:50,1687345200000,1687345200000
+37,Japanese Language Crash Course,A crash course to learn essential Japanese phrases and grammar,https://example.com/videos/37,https://example.com/thumbnails/37,00:25:15,1687427100000,1687427100000
+38,Self-care and Wellness Tips,Discover self-care practices and wellness tips for a balanced lifestyle,https://example.com/videos/38,https://example.com/thumbnails/38,00:15:30,1687516200000,1687516200000
+39,Documentary: Climate Change,Explore the impact of climate change on the environment and society,https://example.com/videos/39,https://example.com/thumbnails/39,01:05:00,1687605300000,1687605300000
+41,Gourmet Cooking: French Cuisine,Master the art of French cooking with gourmet recipes and techniques,https://example.com/videos/41,https://example.com/thumbnails/41,01:20:00,1687776300000,1687776300000
+42,Time Management Strategies,Improve your productivity with effective time management strategies,https://example.com/videos/42,https://example.com/thumbnails/42,00:18:30,1687865400000,1687865400000
+43,Interior Design Tips for Small Spaces,Transform small spaces with clever interior design tips and ideas,https://example.com/videos/43,https://example.com/thumbnails/43,00:08:45,1687945500000,1687945500000
+44,Music Theory Basics,Understand the fundamentals of music theory for beginners,https://example.com/videos/44,https://example.com/thumbnails/44,00:30:00,1688034600000,1688034600000
+45,Outdoor Photography Techniques,Capture stunning outdoor photographs with these photography techniques,https://example.com/videos/45,https://example.com/thumbnails/45,00:27:20,1688122800000,1688122800000
+46,Creative Dessert Recipes,Impress your guests with creative and delicious dessert recipes,https://example.com/videos/46,https://example.com/thumbnails/46,00:12:45,1688203200000,1688203200000
+47,Introduction to Graphic Design,Learn the basics of graphic design and create stunning visual content,https://example.com/videos/47,https://example.com/thumbnails/47,00:55:00,1688294700000,1688294700000
+48,Personal Finance Management,Take control of your finances with effective personal finance management strategies,https://example.com/videos/48,https://example.com/thumbnails/48,00:35:30,1688383800000,1688383800000
+49,Street Photography: Capturing Moments,Master the art of street photography and capture memorable moments,https://example.com/videos/49,https://example.com/thumbnails/49,00:20:15,1688463900000,1688463900000
+50,Healthy Habits for Daily Life,Incorporate healthy habits into your daily routine for a happier and more fulfilling life,https://example.com/videos/50,https://example.com/thumbnails/50,00:15:00,1688552400000,1688552400000
